@@ -3,7 +3,7 @@ D3.js pattern for handling selections
 
 ## Installation
 
-```javascript
+```bash
 npm install git+ssh://git@github.com:vladflorescu94/general-update-pattern.git
 ```
 
