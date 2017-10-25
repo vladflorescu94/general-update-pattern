@@ -1,0 +1,15 @@
+{
+  "name": "general-update-pattern",
+  "version": "1.0.0-beta",
+  "description": "d3.js pattern for handling selections",
+  "main": "index.js",
+  "repository": "https://github.com/vladflorescu94/general-update-pattern",
+  "author": "Vlad Florescu",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0"
+  }
+}
