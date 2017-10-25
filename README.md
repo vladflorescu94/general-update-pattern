@@ -4,7 +4,7 @@ D3.js pattern for handling selections
 ## Installation
 
 ```javascript
-npm install general-update-pattern
+npm install git+ssh://git@github.com:vladflorescu94/general-update-pattern.git
 ```
 
 ## Usage
