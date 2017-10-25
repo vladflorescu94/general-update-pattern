@@ -1,3 +1,5 @@
+const isNotNil = R.compose(R.not, R.isNil);
+
 export class GeneralUpdatePattern {
   constructor(selectNodes, data, dataFn) {
     this.selectNodes = selectNodes;
