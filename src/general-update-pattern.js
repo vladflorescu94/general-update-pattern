@@ -1,3 +1,5 @@
+import R from 'ramda';
+
 const isNotNil = R.compose(R.not, R.isNil);
 
 export class GeneralUpdatePattern {
