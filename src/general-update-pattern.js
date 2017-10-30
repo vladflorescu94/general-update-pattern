@@ -1,4 +1,4 @@
-import R from 'ramda';
+import * as R from 'ramda';
 
 const isNotNil = R.compose(R.not, R.isNil);
 
